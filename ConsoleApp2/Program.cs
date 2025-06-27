@@ -159,6 +159,12 @@
             //Console.WriteLine($"Min element = {min}");
 
             #endregion
+            #region Q15
+            // Console.WriteLine("Enter number : ");
+            // int number = Convert.ToInt32(Console.ReadLine());
+            // if (number % 2 == 0) { Console.WriteLine("Even"); }
+            // else { Console.WriteLine("odd"); }
+            #endregion
            
 
         }
