@@ -49,7 +49,13 @@
             num1 = 7;
             Console.WriteLine(num2);
             #endregion
-           
+            #region Q6
+            //string x1 = new string("hana");
+            //string x2 = x1;
+            //x1 = "yohana";
+            //Console.WriteLine(x2);
+            #endregion
+            
         }
     }
 }
