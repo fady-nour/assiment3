@@ -127,7 +127,21 @@
             //    Console.WriteLine("No");
             //  }
             #endregion
-          
+            #region Q13
+            //Console.WriteLine("Enter num : ");
+            //int num = Convert.ToInt32(Console.ReadLine());
+
+            //if (num < 0)
+            //{
+            //    Console.WriteLine("negative");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("positive");
+            //}
+
+            #endregion
+
 
         }
     }
