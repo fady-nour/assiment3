@@ -164,6 +164,23 @@
             // if (number % 2 == 0) { Console.WriteLine("Even"); }
             // else { Console.WriteLine("odd"); }
             #endregion
+            #region Q16
+            //Console.Write("enter a character: ");
+            // char ch = Convert.ToChar(Console.ReadLine());
+
+            // ch = char.ToLower(ch);
+
+            // if (ch == 'a'  ch == 'e'  ch == 'i'  ch == 'o'  ch == 'u')
+            // {
+            //     Console.WriteLine("vowel");
+            // }
+
+            // else
+            // {
+            //     Console.WriteLine("invalid input");
+            // }
+
+            #endregion
         }
     }
 }
