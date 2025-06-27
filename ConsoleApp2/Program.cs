@@ -55,7 +55,13 @@
             //x1 = "yohana";
             //Console.WriteLine(x2);
             #endregion
-        
+            #region Q7
+            //Console.WriteLine("Enter  varable1");
+            //string varable1 = Console.ReadLine();
+            //Console.WriteLine("Enter varable2");
+            //string varable2 = Console.ReadLine();
+            //Console.WriteLine(varable1);
+            #endregion
 
         }
     }
