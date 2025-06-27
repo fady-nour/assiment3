@@ -83,7 +83,23 @@
             //           double bmi = weight / (height * height);
             //           Console.WriteLine($"Your BMI is: {bmi:F2}");
             #endregion
-         
+            #region Q10
+            //Console.Write("Enter the temperature: ");
+            //double temperature = Convert.ToDouble(Console.ReadLine());
+            //if (temperature < 10)
+            //{
+            //    Console.WriteLine("Just Cold");
+            //}
+            //else if (temperature > 30)
+            //{
+            //    Console.WriteLine("Just Cold");
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Just Good");
+            //}
+            #endregion
         }
     }
 }
