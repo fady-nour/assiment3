@@ -62,7 +62,17 @@
             //string varable2 = Console.ReadLine();
             //Console.WriteLine(varable1);
             #endregion
+            #region  Q8
 
+            //Console.Write("Enter the principal amount: ");
+            //double principal = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter the rate of interest (in %): ");
+            //double rate = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Enter the time (in years): ");
+            //double time = Convert.ToDouble(Console.ReadLine());
+            //double interest = (principal * rate * time) / 100;
+            //Console.WriteLine($"The Simple Interest is: {interest}");
+            #endregion
         }
     }
 }
