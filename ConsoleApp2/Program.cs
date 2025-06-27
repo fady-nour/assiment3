@@ -41,8 +41,15 @@
             //   else if (month == 3) { Console.WriteLine("march"); }
             //   else { Console.WriteLine("nej"); }
             #endregion
-            
-
+            #region Q5
+            int num1 = 20;
+            Console.WriteLine(num1);
+            int num2 = num1;
+            Console.WriteLine(num2);
+            num1 = 7;
+            Console.WriteLine(num2);
+            #endregion
+           
         }
     }
 }
