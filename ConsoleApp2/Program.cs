@@ -73,7 +73,16 @@
             //double interest = (principal * rate * time) / 100;
             //Console.WriteLine($"The Simple Interest is: {interest}");
             #endregion
-          
+            #region Q9
+
+            //Console.Write("Enter weight in kilograms: ");
+            //           double weight = Convert.ToDouble(Console.ReadLine());
+
+            //           Console.Write("Enter height in meters: ");
+            //           double height = Convert.ToDouble(Console.ReadLine());
+            //           double bmi = weight / (height * height);
+            //           Console.WriteLine($"Your BMI is: {bmi:F2}");
+            #endregion
 
         }
     }
