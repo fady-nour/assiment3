@@ -116,8 +116,18 @@
             //  //   string date = string.Format("Today's date : {0} - {1} - {2}", day, month, year);
             //     Console.WriteLine(data);
             #endregion
-          
+            #region Q12
+            //Console.WriteLine("Enter number ");
+            //int number = Convert.ToInt32(Console.ReadLine());
+            //if (number % 4 == 0 && number % 4 == 0) {
 
+            //    Console.WriteLine("Yes");
+            //}
+            //else {
+            //    Console.WriteLine("No");
+            //  }
+            #endregion
+          
 
         }
     }
