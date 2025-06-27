@@ -7,7 +7,7 @@
             #region Q1
             //Console.WriteLine("Enter number");
 
-            //int number = Convert.ToInt32(Console.ReadLine());
+            ////int number = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine(number);
             #endregion
             #region Q2
@@ -141,6 +141,7 @@
             //}
 
             #endregion
+
             #region Q14
             //Console.WriteLine("Enter first number:");
             //int num1 = Convert.ToInt32(Console.ReadLine());
@@ -205,6 +206,7 @@
             //}
 
             #endregion
+
         }
     }
 }
