@@ -83,7 +83,6 @@
             //           double bmi = weight / (height * height);
             //           Console.WriteLine($"Your BMI is: {bmi:F2}");
             #endregion
-
             #region Q10
             //Console.Write("Enter the temperature: ");
             //double temperature = Convert.ToDouble(Console.ReadLine());
@@ -101,7 +100,25 @@
             //    Console.WriteLine("Just Good");
             //}
             #endregion
+            #region Q11
+            //     Console.Write("Enter the day: ");
+            //     int day = int.Parse(Console.ReadLine());
+
+            //     Console.Write("Enter the month: ");
+            //     int month10 = int.Parse(Console.ReadLine());
+
+            //     Console.Write("Enter the year: ");
+            //     int year = int.Parse(Console.ReadLine());
+            //    string  date;
+            ////string data = string.Format("Today's date : {day} , {month} , {year}", day, month, year);
+
+            //    string data = string.Format("Today's date : {day} / {month} / {year}", day, month, year);
+            //  //   string date = string.Format("Today's date : {0} - {1} - {2}", day, month, year);
+            //     Console.WriteLine(data);
+            #endregion
           
+
+
         }
     }
 }
