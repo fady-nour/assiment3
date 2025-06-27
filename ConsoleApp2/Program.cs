@@ -17,6 +17,13 @@
             //Console.WriteLine(number2);
             //  System.FormatException: 'The input string 'hjjkljlkj' was not in a correct format.'
             #endregion
+            #region Q3
+
+            //float x = 10.5f;
+            //float y = 11.8f;
+            //double resault2 = (((x + y) * y / x ));
+            //Console.WriteLine(resault2);
+            #endregion
 
 
         }
