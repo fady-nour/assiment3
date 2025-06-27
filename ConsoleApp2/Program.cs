@@ -24,7 +24,24 @@
             //double resault2 = (((x + y) * y / x ));
             //Console.WriteLine(resault2);
             #endregion
-           
+            #region Q4
+
+            //Console.WriteLine("Enter month");
+
+            //   int month = Convert.ToInt32(Console.ReadLine());
+            //   Console.WriteLine(month);
+            //   if (month == 1)
+            //   {
+            //       Console.WriteLine("jan");
+            //   }
+            //   else if (month == 2)
+            //   {
+            //       Console.WriteLine("feb");
+            //   }
+            //   else if (month == 3) { Console.WriteLine("march"); }
+            //   else { Console.WriteLine("nej"); }
+            #endregion
+            
 
         }
     }
