@@ -142,6 +142,24 @@
 
             #endregion
 
+            #region Q14
+            //Console.WriteLine("Enter first number:");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter second number:");
+            //int num2  = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter third number:");
+            //int num3 = Convert.ToInt32(Console.ReadLine());
+
+            //int max = Math.Max(num1, Math.Max(num2, num3));
+            //int min = Math.Min(num1, Math.Min(num2, num3));
+
+            //Console.WriteLine($"Max element = {max}");
+            //Console.WriteLine($"Min element = {min}");
+
+            #endregion
+           
 
         }
     }
